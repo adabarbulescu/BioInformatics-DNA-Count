@@ -3,6 +3,10 @@ DNA Nucleotide Count Web App
 
 This is a web app that allows users to input a DNA sequence and displays the count of each nucleotide (adenine, thymine, cytosine, and guanine) in the form of a dictionary, text, DataFrame, and bar chart.
 
+Demo
+----
+
+A live demo of the app can be found [here](https://adabarbulescu-bioinformatics-dna-count-main-w31egk.streamlit.app/).
 Technologies Used
 -----------------
 
