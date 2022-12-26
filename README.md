@@ -7,6 +7,7 @@ Demo
 ----
 
 A live demo of the app can be found [here](https://adabarbulescu-bioinformatics-dna-count-main-w31egk.streamlit.app/).
+
 Technologies Used
 -----------------
 
