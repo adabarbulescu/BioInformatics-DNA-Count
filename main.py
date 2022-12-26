@@ -46,7 +46,6 @@ def print_nuc_count(nuc_count):
 X = nucleotide_count(sequence)
 X_label = list(X)
 X_values = list(X.values())
-X
 
 
 def display_df(nuc_count):
